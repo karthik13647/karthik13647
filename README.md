@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
- Hi there 👋
-👋 Hi, I’m ![@KARTHIK](https://karthik13647.github.io/Portfolio/)<br>👀 I’m interested in Software Development, Cloud Computing and AI/ML.<br>🌱 I’m currently learning Machine Learning and Cloud Technologies.<br>💼 I have experience in full-stack development, database management, and building responsive web applications.<br>💡 I’m looking to collaborate on innovative projects involving end-to-end software development and cloud solutions.
+👋 Hi, I’m @Karthik Batta<br>👀 I’m interested in Software Development, Cloud Computing and AI/ML.<br>🌱 I’m currently learning Machine Learning and Cloud Technologies.<br>💼 I have experience in full-stack development, database management, and building responsive web applications.<br>💡 I’m looking to collaborate on innovative projects involving end-to-end software development and cloud solutions.
 
 
 ## 🌐 Socials:
