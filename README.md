@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Coordinated a successful college group discussion event, fostering collaborative growth.
 
 📫 **Let's Connect:**  
-- Portfolio: [https://karthik13647.github.io/Portfolio/](#)  
+- Portfolio: [Checkme Out](https://karthik13647.github.io/Portfolio/)  
 - Email: karthikbatta6503@gmail.com  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
